@@ -1,0 +1,9 @@
+large_event_size = 5
+ignore_events = [
+    "Lunch",
+    "Dinner"
+]
+
+[export_range]
+days_ago = 1
+days = 14
